@@ -1,5 +1,5 @@
 package t01_programacionoo;
 
-public class Usuario {
+public class Usuario extends Persona {
 
 }

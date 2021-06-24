@@ -5,8 +5,5 @@ public class Bibliotecario {
 	private String nombre;
 	private String facultad;
 	
-	/*Abstracción*/
-	void correr() {
-		int velocidad=0;
-	}
+	
 }
