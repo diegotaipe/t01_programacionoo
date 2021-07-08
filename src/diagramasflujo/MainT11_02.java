@@ -8,18 +8,19 @@ public class MainT11_02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner Lector=new Scanner(System.in);
+		Scanner Lector = new Scanner(System.in);
 		System.out.println("    --- Multiplos ---");
 		System.out.println("Ingrese el primer número: ");
 		int A = Lector.nextInt();
 		System.out.println("Ingrese el segundo número: ");
 		int B = Lector.nextInt();
+
+		int M = A % B;
 		
-		int M=A%B;
-		if(M==0) {
-			System.out.println(A+" Es múltiplo de "+B);
-		}else {
-			System.out.println(A+" No es múltiplo de "+B);
+		if (M == 0) {
+			System.out.println(A + " Es múltiplo de " + B);
+		} else {
+			System.out.println(A + " No es múltiplo de " + B);
 		}
 	}
 
