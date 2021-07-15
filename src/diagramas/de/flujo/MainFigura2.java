@@ -10,13 +10,13 @@ System.out.print("Ingrese el número de filas: ");
 
 Scanner lector=new Scanner(System.in);
 int n = lector.nextInt();
-for (int fila = 1; fila <n ; fila = fila + 1) {
-
-	for (int ast = n; ast <= fila; ast ++) {
+or (int fila = 1; fila <= n; fila ++) {
+	for (int ast = n; ast >= fila; ast--) {
 		System.out.print("*");
 	}
-	System.out.println();//Salto de linea
-}
+	System.out.println();// Salto de línea
+	 
+} 
 	}
 
 }
