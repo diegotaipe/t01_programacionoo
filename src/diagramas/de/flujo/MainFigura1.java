@@ -7,7 +7,7 @@ public class MainFigura1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("Ingrese el número de filas: ");
-
+         //EXCELENTE BRO
 		Scanner lector = new Scanner(System.in);
 		int n = lector.nextInt();
 
