@@ -3,7 +3,7 @@ package diagramas.de.flujo;
 import java.util.Scanner;
 
 public class MainFigura1 {
-//modificación
+//modificación ok
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("Ingrese el número de filas: ");
