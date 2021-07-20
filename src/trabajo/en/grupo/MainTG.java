@@ -6,7 +6,7 @@ public class MainTG {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Grupo 1 Fechas
+		//Grupo 1 2 Fechas cumpleaños
 		int AñoA, AñoN;
 		int MesA, MesN, mes = 0;
 		int diaA, diaN, dia = 0;
