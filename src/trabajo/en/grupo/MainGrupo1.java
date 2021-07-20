@@ -23,11 +23,11 @@ public class MainGrupo1 {
 		int AA = Lector.nextInt();
 
 		int dias_mes_anterior = 0;
-		// int dias_mes_nacimiento = 0;
-		// int dias_mes_actual = 0;
+		
 		int meses = 0;
 		int dias = 0;
 		int anios = 0;
+		//dias_mes_anterior se calcula con el mes anterior al ingresado, ejemplo: mes 1 enero = 12 diciembre 31 días
 		if (MA == 1 || MA == 2 || MA == 4 || MA == 6 || MA == 8 || MA == 9 || MA == 11) {
 			dias_mes_anterior = 31;
 		} else if (MA == 5 || MA == 7 || MA == 10 || MA == 12) {
