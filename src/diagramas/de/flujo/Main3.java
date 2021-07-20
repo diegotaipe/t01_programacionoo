@@ -5,12 +5,16 @@ public class Main3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Tabla de multiplicar del 7");
+	/*	System.out.println("Tabla de multiplicar del 7");
 		int C = 7;
 		for (int N = 0; N < 13; N++) {
 			int T = C * N;
 			System.out.println(C + " * " + N + " = " + T);
 		}
+	
+	*/
+		int A=(12)%12;
+		System.out.println(A);
 	}
 
 }
