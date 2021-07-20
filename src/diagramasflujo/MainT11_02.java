@@ -5,7 +5,7 @@ package diagramasflujo;
 import java.util.Scanner;
 
 public class MainT11_02 {
-
+//EXCELENTE PA!!
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner Lector = new Scanner(System.in);
