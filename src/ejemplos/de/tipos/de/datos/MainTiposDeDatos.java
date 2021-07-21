@@ -12,6 +12,7 @@ public class MainTiposDeDatos {
 		double saldoBanco=10000000.75;
 		char opcionMenu='C';
 		boolean casado = true;
+	
 	}
 
 }
