@@ -3,7 +3,7 @@ package diagramas.de.flujo;
 import java.util.Scanner;
 
 public class MainDoWhilePrueba2 {
-
+//Utilizando Do While
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int n = 0;
