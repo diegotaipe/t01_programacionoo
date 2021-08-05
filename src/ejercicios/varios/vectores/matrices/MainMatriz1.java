@@ -27,14 +27,14 @@ public class MainMatriz1 {
 			}
 
 		}
+		System.out.println("Iniciamos a imprimir la matriz:");
 		for (int fila = 0; fila < longitudFila; fila++) {
 			for (int columna = 0; columna < longitudColumna; columna++) {
 
-				System.out.println(
-						"El valor de la fila: [" + fila + "] y columna: [" + columna + "] es: " + A[fila][columna]);
+				System.out.print(A[fila][columna]+" ");
 
 			}
-
+			System.out.println();
 		}
 	}
 
