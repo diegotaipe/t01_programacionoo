@@ -1,4 +1,4 @@
-package deber.metodos.ejemplo;
+package deber.metodos;
 
 public class ingreso {
 	public ingreso() {
