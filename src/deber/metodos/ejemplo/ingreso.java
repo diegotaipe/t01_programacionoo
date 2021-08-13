@@ -1,5 +1,5 @@
 package deber.metodos.ejemplo;
-//
+
 public class ingreso {
 	public ingreso() {
 	}
