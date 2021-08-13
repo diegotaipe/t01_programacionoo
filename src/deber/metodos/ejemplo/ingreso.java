@@ -3,7 +3,7 @@ package deber.metodos.ejemplo;
 public class ingreso {
 	public ingreso() {
 	}
-
+//deber en grupo
 //Impresion en caso de ingreso de nuevos libros a la biblioteca.
 	public void imprimir(String titulo, String autor, String isbn, String editorial, int paginas, String FechaIngreso,
 			int registro) {
