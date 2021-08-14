@@ -1,4 +1,4 @@
-package deber.metodos.ejemplo;
+package deber.metodos;
 //
 public class MainRegistroIngreso {
 // metodo main para ingreso de libros a una biblioteca
