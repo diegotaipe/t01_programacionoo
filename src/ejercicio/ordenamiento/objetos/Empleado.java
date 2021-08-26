@@ -1,7 +1,7 @@
 package ejercicio.ordenamiento.objetos;
 
 public class Empleado implements Comparable<Empleado> {
-
+//ordenamiento de objetos
 	private String nombre;
 	private String apellido;
 	private int edad;
