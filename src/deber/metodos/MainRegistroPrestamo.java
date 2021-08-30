@@ -1,4 +1,4 @@
-package deber.metodos.ejemplo;
+package deber.metodos;
 
 public class MainRegistroPrestamo {
 //metodo main main para prestamo de libros a usuarios de una biblioteca.

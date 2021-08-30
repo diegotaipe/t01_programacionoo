@@ -79,7 +79,7 @@ public class MainEmpleado {
 		nominaEmpleados[8] = natalie;
 		nominaEmpleados[9] = mon;
 
-		System.out.println("---------- GPF ----------");
+		System.out.println("          ---------- GPF ----------");
 		System.out.println("Nómina de empleados: GPF");
 		System.out.println("Ordenamiento por salario actual");
 
