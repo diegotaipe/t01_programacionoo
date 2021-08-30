@@ -139,6 +139,7 @@ public class MainTableroAjedrez extends Pieza {
 		}
 		System.out.println("\n*Nota: (x) espacios vacíos");
 		// Imprime toda la matriz de manera horizontal
+		//
 		// System.out.println(Arrays.deepToString(ordenamientoAjedrez));
 	}
 
