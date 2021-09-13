@@ -1,6 +1,9 @@
 package ejercicio.ajedrez.ordenamiento.objetos;
+//CORRECCION error public class Alfil extends MainTableroAjedrez {
+//¿Alfil es un MainTableroAjedrez? NO
 
-public class Alfil extends MainTableroAjedrez {
+//¿Alfil es una Pieza? SI
+public class Alfil extends Pieza {
 	private String color;
 
 	public String getColor() {
